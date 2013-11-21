@@ -14,6 +14,6 @@ public class GitExample {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("This is a git example that does nothing.");
+        System.out.println("This is a git example that does almost nothing.");
     }
 }
